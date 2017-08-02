@@ -40,7 +40,7 @@ struct FichaAtendimentoIndividualChildThrift {
 	16:optional list<string> examesAvaliados;
 	17:optional list<OutrosSiaThrift> outrosSia;
 	18:optional bool vacinaEmDia;
-	19:optional i64 pic;
+	19:optional i64 racionalidadeSaude;
 	20:optional bool ficouEmObservacao;
 	21:optional list<i64> nasfs;
 	22:optional list<i64> condutas;
